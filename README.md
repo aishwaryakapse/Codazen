@@ -1,4 +1,4 @@
-# Codazen
+# Code
 Assessment
 
 Name: Aishwarya Nitin Kapse
